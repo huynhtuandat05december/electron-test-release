@@ -32,7 +32,7 @@ const Hello = () => {
             <span role="img" aria-label="books">
               🙏
             </span>
-            Donate test
+            Donate test1
           </button>
         </a>
       </div>
