@@ -88,12 +88,12 @@
     "publish": {
       "provider": "github",
       "owner": "huynhtuandat05december",
-      "repo": "electron-test"
+      "repo": "electron-test1"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huynhtuandat05december/electron-test.git"
+    "url": "git+https://github.com/huynhtuandat05december/electron-test1.git"
   },
   "author": {
     "name": "Electron React Boilerplate Maintainers",
